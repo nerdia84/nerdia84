@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nerdia84
-- 👀 I’m interested in Nextjs, React, React Three Fiber
-- 🌱 I’m currently learning CSR, SSR, SSG, ISR
+- 👀 I’m interested in Nextjs, React, React Three Fiber WebApps
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on AR VR Web3
 - 📫 How to reach me ...
 
